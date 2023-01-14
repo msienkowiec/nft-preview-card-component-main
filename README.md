@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://your-solution-url.com)
-- Live Site URL: [live](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/msienkowiec/nft-preview-card-component-main)
+- Live Site URL: [live](https://msienkowiec.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
